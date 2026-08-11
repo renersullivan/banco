@@ -7,14 +7,13 @@
   align-items: center;
 
   background: rgba(0, 0, 0, 0.85);
-  background-image: url("../../assets/bahamas.webp");
+  background-image: url("../../assets/kiosque1.jpg");
   background-size: cover;
   background-position: center;
 }
 .titulo {
-    color: white;
-    font-size: 80px;
-    font-weight: bolder;
+    color: #141414bf;
+      margin: auto;
 }
 
 
